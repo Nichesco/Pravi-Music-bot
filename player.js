@@ -99,7 +99,7 @@ name: 'Playing Song..',
 iconURL: musicIcons.playerIcon,
 url: config.SupportServer
 })
-.setFooter({ text: `Developed by SSRR | Prime Music v1.2`, iconURL: musicIcons.heartIcon })
+.setFooter({ text: `Developed by Didi City Muzika`, iconURL: musicIcons.heartIcon })
 .setTimestamp()
 .setDescription(  
 `- **Title:** [${track.info.title}](${track.info.uri})\n` +
